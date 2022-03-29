@@ -1,2 +1,2 @@
 # Projeto sobre Git/Github da DIO.:computer:
-Repositório do desafio de projeto sobre Git/Github, disponibilizado pela DIO em parceria com a Phillips.
+Repositório para o desafio do projeto sobre Git/Github, disponibilizado pela DIO em parceria com a Phillips.
